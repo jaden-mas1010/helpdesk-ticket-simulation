@@ -15,7 +15,7 @@ People team submitted a new hire request 5 business days before A. Fernandes's s
 
 ## Triage
 
-- Cross-checked the request against the [New Hire Provisioning Checklist](../sops/SOP-new-hire-provisioning.md) to confirm all required fields were present (manager, department, start date, role-based access tier).
+- Cross-checked the request against the [New Hire Provisioning Checklist](SOP-new-hire-provisioning.md) to confirm all required fields were present (manager, department, start date, role-based access tier).
 - Flagged one gap: request didn't specify which CRM permission tier — followed up with the hiring manager same day to avoid a delay.
 
 ## Resolution steps
