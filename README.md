@@ -12,18 +12,18 @@ Each ticket follows a consistent format: **intake → triage → resolution step
 
 | ID | Category | Priority | Summary |
 |----|----------|----------|---------|
-| [TICK-101](tickets/TICK-101-password-reset.md) | Access | P3 | Locked out after failed MFA attempts |
-| [TICK-102](tickets/TICK-102-vpn-access.md) | Network/Access | P2 | Remote employee cannot connect to VPN |
-| [TICK-103](tickets/TICK-103-software-install-failure.md) | Software | P3 | M365 app install fails with error code |
-| [TICK-104](tickets/TICK-104-hardware-fault.md) | Hardware | P2 | Laptop won't boot past login screen |
-| [TICK-105](tickets/TICK-105-new-hire-onboarding.md) | Onboarding | P1 | New hire device + account setup for Day 1 |
-| [TICK-106](tickets/TICK-106-offboarding-access-revoke.md) | Offboarding | P1 | Immediate access revocation for departing employee |
+| [TICK-101](TICK-101-password-reset.md) | Access | P3 | Locked out after failed MFA attempts |
+| [TICK-102](TICK-102-vpn-access.md) | Network/Access | P2 | Remote employee cannot connect to VPN |
+| [TICK-103](TICK-103-software-install-failure.md) | Software | P3 | M365 app install fails with error code |
+| [TICK-104](TICK-104-hardware-fault.md) | Hardware | P2 | Laptop won't boot past login screen |
+| [TICK-105](TICK-105-new-hire-onboarding.md) | Onboarding | P1 | New hire device + account setup for Day 1 |
+| [TICK-106](TICK-106-offboarding-access-revoke.md) | Offboarding | P1 | Immediate access revocation for departing employee |
 
 ## SOPs referenced
 
-- [Password / MFA Reset SOP](sops/SOP-password-mfa-reset.md)
-- [VPN Troubleshooting SOP](sops/SOP-vpn-troubleshooting.md)
-- [New Hire Provisioning Checklist](sops/SOP-new-hire-provisioning.md)
+- [Password / MFA Reset SOP](SOP-password-mfa-reset.md)
+- [VPN Troubleshooting SOP](SOP-vpn-troubleshooting.md)
+- [New Hire Provisioning Checklist](SOP-new-hire-provisioning.md)
 
 ## Format notes
 
