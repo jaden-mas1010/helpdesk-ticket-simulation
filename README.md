@@ -33,4 +33,4 @@ Each ticket follows a consistent format: **intake → triage → resolution step
 
 ## Related work
 
-- [IT Onboarding/Offboarding Runbook](https://github.com/jaden-mas1010) — the process-level runbook this ticket set operationalizes, with live Jira Service Management tickets.
+- [IT Onboarding/Offboarding Runbook]([https://github.com/jaden-mas1010](https://github.com/jaden-mas1010/IT-onboarding-offboarding-runbook) — the process-level runbook this ticket set operationalizes, with live Jira Service Management tickets.
