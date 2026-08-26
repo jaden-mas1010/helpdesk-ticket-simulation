@@ -20,7 +20,7 @@ People team notified IT of an involuntary termination effective immediately at 2
 
 ## Resolution steps
 
-1. Disabled the M365 account and revoked all active sessions at exactly 2:00 PM, per the [offboarding runbook](https://github.com/jaden-mas1010) procedure.
+1. Disabled the M365 account and revoked all active sessions at exactly 2:00 PM, per the [offboarding runbook]([https://github.com/jaden-mas1010](https://github.com/jaden-mas1010/IT-onboarding-offboarding-runbook)) procedure.
 2. Revoked VPN certificate and removed the device from the MDM trusted list.
 3. Removed CRM and Slack access; transferred CRM record ownership to the employee's manager per data continuity policy.
 4. Deactivated the physical badge in the building access system.
