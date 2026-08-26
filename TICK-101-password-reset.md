@@ -21,7 +21,7 @@ Employee reports they cannot sign into their laptop or Outlook. Says they change
 
 ## Resolution steps
 
-1. Verified requestor identity per SOP (see [Password/MFA Reset SOP](../sops/SOP-password-mfa-reset.md)).
+1. Verified requestor identity per SOP (see [Password/MFA Reset SOP](SOP-password-mfa-reset.md)).
 2. Unlocked the account in Entra ID admin center.
 3. Revoked the old MFA method tied to the previous phone.
 4. Sent a secure MFA re-registration link; walked the employee through re-enrolling Authenticator on the new device via screen share.
