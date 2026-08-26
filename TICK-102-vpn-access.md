@@ -21,7 +21,7 @@ Employee cannot connect to the corporate VPN. Getting a generic "connection fail
 
 ## Resolution steps
 
-1. Followed [VPN Troubleshooting SOP](../sops/SOP-vpn-troubleshooting.md) — started with client-side checks before escalating to network team.
+1. Followed [VPN Troubleshooting SOP](SOP-vpn-troubleshooting.md) — started with client-side checks before escalating to network team.
 2. Confirmed the VPN client's machine certificate had expired (routine annual renewal event, not unique to this user).
 3. Remotely pushed an updated device certificate via MDM profile.
 4. Had the employee restart the VPN client and reconnect — successful on first attempt post-fix.
